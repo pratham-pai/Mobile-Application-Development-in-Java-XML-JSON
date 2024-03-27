@@ -1,0 +1,7 @@
+1) Right click on Java folder-> new-> activity->empty activity-> name it as
+“LoginSuccessful”
+2) Go to xml code of design change the layout to “RelativeLayout”
+3) Add TextView component & change the following properties:
+• Size: 38dp
+• Text: “Login Successful”
+• Center-Align
