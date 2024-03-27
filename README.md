@@ -2,7 +2,7 @@
 
 This repository contains simple interesting projects for mobile application development in Java, XML, and JSON.
 
-## Program-1: [Visiting Card Designer](`https://github.com/pratham-pai/Mobile-Application-Development-in-Java-XML-JSON/tree/main/1\)%20Visiting%20Card%20Designer%20App`)
+## Program-1: [Visiting Card Designer](https://github.com/pratham-pai/Mobile-Application-Development-in-Java-XML-JSON/tree/main/1\)%20Visiting%20Card%20Designer%20App)
 
 ### Description
 This application allows users to design a visiting card with company information and employee details.
